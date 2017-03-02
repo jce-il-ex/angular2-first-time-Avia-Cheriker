@@ -1,3 +1,4 @@
+to view on the web go to : https://avia-ex1.firebaseapp.com/
 # Angular 2 create and delpoy for first time
 
 First time creating and deploying angular2 app
